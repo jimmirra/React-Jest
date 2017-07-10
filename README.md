@@ -1,5 +1,6 @@
 
-This is a sample showing how to use Jest testing framework with React Components
+This is a sample showing how to use Jest testing framework with React Components.
+All tests were duplicated to also show how to use enzyme to interact with the components.
 
 clone repo
 run 'npm install'
